@@ -1,0 +1,6 @@
+Exhasustian:
+	Tiredness: -1 strnegth
+	1 exsuhstion per event
+	If you gain as much exsaustion as your endurance you gain 
+		1 tiredness
+	If you strain yourslef gain 1 tiredness

@@ -1,0 +1,5 @@
+Summon animal
+Sooth Animal
+Tame Animal
+Polymorph - Basic
+Gain Trait

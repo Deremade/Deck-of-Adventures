@@ -1,0 +1,21 @@
+# Save File
+cardsx=7
+cardsy=2
+card-width=480
+card-height=672
+zoom=0.15
+background-color=-16777216
+0_0=D\:\\RPG\\Traits\\Physical\\Bloodless.png
+1_0=D\:\\RPG\\Traits\\Physical\\Evasive.png
+2_0=D\:\\RPG\\Traits\\Physical\\Hollow Boned.png
+3_0=D\:\\RPG\\Traits\\Physical\\Instant Regeneration.png
+4_0=D\:\\RPG\\Traits\\Physical\\Mystical.png
+5_0=D\:\\RPG\\Traits\\Physical\\Physical Adeptness.png
+6_0=D\:\\RPG\\Traits\\Physical\\Size.png
+0_1=D\:\\RPG\\Traits\\Physical\\Solid Skin.png
+1_1=D\:\\RPG\\Traits\\Physical\\Sonar.png
+2_1=D\:\\RPG\\Traits\\Physical\\Super Speed.png
+3_1=D\:\\RPG\\Traits\\Physical\\Super Strength.png
+4_1=D\:\\RPG\\Traits\\Physical\\Teeth and Claws.png
+5_1=D\:\\RPG\\Traits\\Physical\\Wings.png
+6_1=null

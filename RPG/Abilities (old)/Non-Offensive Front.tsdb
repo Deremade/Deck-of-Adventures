@@ -1,0 +1,15 @@
+# Save File
+cardsx=4
+cardsy=2
+card-width=600
+card-height=840
+zoom=0.35
+background-color=-16777216
+0_0=D\:\\RPG\\Abilities\\Defensive\\Absorb Damage.png
+1_0=D\:\\RPG\\Abilities\\Defensive\\Hold Sheild.png
+2_0=D\:\\RPG\\Abilities\\Defensive\\Greater Hold Sheild.png
+3_0=D\:\\RPG\\Abilities\\Defensive\\Shield Bash.png
+0_1=D\:\\RPG\\Abilities\\Social\\Taunt.png
+1_1=D\:\\RPG\\Abilities\\Social\\Discourage.png
+2_1=D\:\\RPG\\Abilities\\Social\\Encourage.png
+3_1=D\:\\RPG\\Abilities\\Social\\Enrage.png

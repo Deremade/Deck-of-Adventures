@@ -1,0 +1,33 @@
+Chaotic Magic
+
+	Random Mystical Creature
+	Draw "enviornment" skill challange
+	Random Spell cast (each person rolls a d6, on a 1-3
+			they're attacked, if control is applicable,
+			control = 1d10 for each individual)
+	Random Teleportation.	Teleport to random space
+	Random Portal		Portal to random location
+				Civilized-Blessing	Wild-Curse
+					Caverns - Blessing/Curse
+	Random Polymorph	1 person randomly polymorphs
+	Draw Treasure
+	Other Draws Treasure
+
+Teleport
+	Cost: 20 mana
+	Apear anywhere on the map you choose
+
+Magic Missile
+	Cost: X [Mana]
+	Control: [Arcana]
+
+Channel Power
+	[Arcana] skill challange, keep the result and spend
+	all of it as mana
+
+Magic Barrior
+	X*Y [Mana]/Turn
+	X being the range of the Barrior
+	Y being the "strength" How much extra [Block] those in
+	the barrior get and how much [Force] must be spent
+	to enter the barrior without permission

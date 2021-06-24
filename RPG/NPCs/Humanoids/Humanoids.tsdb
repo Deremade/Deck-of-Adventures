@@ -1,0 +1,25 @@
+# Save File
+cardsx=6
+cardsy=3
+card-width=480
+card-height=672
+zoom=0.15
+background-color=-16777216
+0_0=D\:\\RPG\\NPCs\\Humanoids\\Bandits\\Bandits.png
+1_0=D\:\\RPG\\NPCs\\Humanoids\\Bandits\\Bandit 2.png
+2_0=D\:\\RPG\\NPCs\\Humanoids\\Bandits\\Bandit 3.png
+3_0=D\:\\RPG\\NPCs\\Humanoids\\Bandits\\Bandit 4.png
+4_0=D\:\\RPG\\NPCs\\Humanoids\\Mystic\\Mage.png
+5_0=D\:\\RPG\\NPCs\\Humanoids\\Mystic\\Psychic.png
+0_1=D\:\\RPG\\NPCs\\Humanoids\\Criminals\\Assasin.png
+1_1=D\:\\RPG\\NPCs\\Humanoids\\Criminals\\Mugger.png
+2_1=D\:\\RPG\\NPCs\\Humanoids\\Criminals\\Theif.png
+3_1=D\:\\RPG\\NPCs\\Humanoids\\Criminals\\Thug.png
+4_1=D\:\\RPG\\NPCs\\Humanoids\\Official\\Guard.png
+5_1=D\:\\RPG\\NPCs\\Humanoids\\Official\\Guard Archer.png
+0_2=D\:\\RPG\\NPCs\\Humanoids\\Wanderers\\Adventuerer.png
+1_2=D\:\\RPG\\NPCs\\Humanoids\\Wanderers\\Adventuerer 2.png
+2_2=D\:\\RPG\\NPCs\\Humanoids\\Wanderers\\Ranger.png
+3_2=D\:\\RPG\\NPCs\\Humanoids\\Wanderers\\Ranger 2.png
+4_2=D\:\\RPG\\NPCs\\Humanoids\\Official\\Guard 2.png
+5_2=null

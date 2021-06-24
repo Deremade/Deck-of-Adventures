@@ -1,0 +1,21 @@
+# Save File
+cardsx=7
+cardsy=2
+card-width=480
+card-height=672
+zoom=0.15
+background-color=-16777216
+0_0=D\:\\RPG\\NPCs\\Tactics\\Counter-Mage.png
+1_0=D\:\\RPG\\NPCs\\Tactics\\Debuff Mage.png
+2_0=D\:\\RPG\\NPCs\\Tactics\\Disabler.png
+3_0=D\:\\RPG\\NPCs\\Tactics\\Flanker.png
+4_0=D\:\\RPG\\NPCs\\Tactics\\Gang up.png
+5_0=D\:\\RPG\\NPCs\\Tactics\\Guerilla Tactics.png
+6_0=D\:\\RPG\\NPCs\\Tactics\\Indirect Magic.png
+0_1=D\:\\RPG\\NPCs\\Tactics\\Inspiring Leader.png
+1_1=D\:\\RPG\\NPCs\\Tactics\\Large Leader.png
+2_1=D\:\\RPG\\NPCs\\Tactics\\Manipulator.png
+3_1=D\:\\RPG\\NPCs\\Tactics\\Sharptooth Manipulator.png
+4_1=D\:\\RPG\\NPCs\\Tactics\\Sniper.png
+5_1=D\:\\RPG\\NPCs\\Tactics\\Split up.png
+6_1=D\:\\RPG\\NPCs\\Tactics\\Support Mage.png

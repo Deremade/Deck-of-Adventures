@@ -1,0 +1,21 @@
+# Save File
+cardsx=7
+cardsy=2
+card-width=234
+card-height=336
+zoom=0.5
+background-color=-16777216
+0_0=D\:\\RPG\\Events\\Wild\\Forest\\Wild-Forest - Combat.png
+1_0=D\:\\RPG\\Events\\Wild\\Forest\\Wild-Forest - Passive.png
+2_0=D\:\\RPG\\Events\\Wild\\Forest\\Wild-Forest - Challange.png
+3_0=D\:\\RPG\\Events\\Wild\\Forest\\Wild-Forest - Combat.png
+4_0=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Combat.png
+5_0=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Search.png
+6_0=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Search.png
+0_1=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Search.png
+1_1=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Search.png
+2_1=D\:\\RPG\\Events\\Wild\\Misc\\Wild - Combat.png
+3_1=D\:\\RPG\\Events\\Wild\\Mountain\\Wild-Mountain Search.png
+4_1=D\:\\RPG\\Events\\Wild\\Mountain\\Wild-Mountain Combat.png
+5_1=D\:\\RPG\\Events\\Wild\\Mountain\\Wild-Mountain Challange.png
+6_1=D\:\\RPG\\Events\\Wild\\Mountain\\Wild-Mountain-Back.png

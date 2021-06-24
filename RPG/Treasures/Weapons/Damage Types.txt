@@ -1,0 +1,6 @@
+Cutting			x2 dmaage		x2 enemy [Block]
+Piercing		Auto-inflict wound	x2 enemy [Block]
+
+Slashing		Normal
+
+Bludgeoning		Ignore Armor 1/2 Damage

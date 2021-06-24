@@ -1,0 +1,21 @@
+# Save File
+cardsx=7
+cardsy=2
+card-width=480
+card-height=672
+zoom=0.25
+background-color=-16777216
+0_0=D\:\\RPG\\Events\\Wild\\Forests\\Bandits.png
+1_0=D\:\\RPG\\Events\\Wild\\Forests\\Fruits.png
+2_0=D\:\\RPG\\Events\\Wild\\Forests\\Prey Animals.png
+3_0=D\:\\RPG\\Events\\Wild\\Forests\\Wild Animals.png
+4_0=D\:\\RPG\\Events\\Wild\\Miscelanious\\Bandits.png
+5_0=D\:\\RPG\\Events\\Wild\\Miscelanious\\Find Hideout.png
+6_0=D\:\\RPG\\Events\\Wild\\Miscelanious\\Found City.png
+0_1=D\:\\RPG\\Events\\Wild\\Miscelanious\\Found Town.png
+1_1=D\:\\RPG\\Events\\Wild\\Miscelanious\\Prey Animals.png
+2_1=D\:\\RPG\\Events\\Wild\\Miscelanious\\Wild Animals.png
+3_1=D\:\\RPG\\Events\\Wild\\Mountains\\Caverns.png
+4_1=D\:\\RPG\\Events\\Wild\\Mountains\\Flying Beasts.png
+5_1=D\:\\RPG\\Events\\Wild\\Mountains\\Landslide.png
+6_1=D\:\\RPG\\Events\\Wild\\Mountains\\Wild-Mountain.png

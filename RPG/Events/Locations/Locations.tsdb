@@ -1,0 +1,13 @@
+# Save File
+cardsx=3
+cardsy=2
+card-width=480
+card-height=672
+zoom=0.5
+background-color=-16777216
+0_0=D\:\\RPG\\Events\\Location\\Abandoned Mine.png
+1_0=D\:\\RPG\\Events\\Location\\Generic City.png
+2_0=D\:\\RPG\\Events\\Location\\Generic Hideout.png
+0_1=D\:\\RPG\\Events\\Location\\Generic Tavern.png
+1_1=D\:\\RPG\\Events\\Location\\Generic Town.png
+2_1=D\:\\RPG\\Events\\Location\\Mine.png

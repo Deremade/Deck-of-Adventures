@@ -1,0 +1,16 @@
+# Save File
+cardsx=3
+cardsy=3
+card-width=480
+card-height=672
+zoom=0.2
+background-color=-16777216
+0_0=D\:\\RPG\\Treasures\\Misc\\Campling Supplies.png
+1_0=D\:\\RPG\\Treasures\\Misc\\Cloth.png
+2_0=D\:\\RPG\\Treasures\\Misc\\Currency.png
+0_1=D\:\\RPG\\Treasures\\Misc\\Food.png
+1_1=D\:\\RPG\\Treasures\\Misc\\Pickaxe.png
+2_1=D\:\\RPG\\Treasures\\Misc\\Tools.png
+0_2=D\:\\RPG\\Treasures\\Misc\\Weapons.png
+1_2=D\:\\RPG\\Treasures\\Misc\\Mana Storage.png
+2_2=D\:\\RPG\\Treasures\\Misc\\Gadgets.png
